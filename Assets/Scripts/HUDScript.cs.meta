@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 414a047230e3f8746b258e0ca61417c6
+timeCreated: 1509910898
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - actualColor: {instanceID: 0}
+  - reserveColor: {instanceID: 0}
+  - ready: {instanceID: 0}
+  - actual: {instanceID: 0}
+  - reserve: {instanceID: 0}
+  - player: {instanceID: 0}
+  - brush: {instanceID: 0}
+  - RM1: {instanceID: 0}
+  - RM2: {instanceID: 0}
+  - Bolhas00: {fileID: 21300000, guid: ea86455948b8d4648a8381e6931b3fd4, type: 3}
+  - Bolhas01: {fileID: 21300000, guid: b6ab859bb2f691e4c881037576d84e8a, type: 3}
+  - Bolhas02: {fileID: 21300000, guid: a6b2320ff1d73944c82ebf09e3cf911a, type: 3}
+  - Bolhas03: {fileID: 21300000, guid: 60d7f66ecc9e1aa4a8717a68296bcffd, type: 3}
+  - Bolhas04: {fileID: 21300000, guid: 04cdcd807ed6a49428eb69f4f478b431, type: 3}
+  - Bolhas05: {instanceID: 0}
+  - Bolhas06: {instanceID: 0}
+  - Bolhas07: {instanceID: 0}
+  - Bolhas08: {instanceID: 0}
+  - Bolhas09: {instanceID: 0}
+  - Bolhas10: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

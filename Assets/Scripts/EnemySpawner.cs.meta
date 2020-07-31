@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 1a10f7687c16cf6428b51ef665dfbb4c
+timeCreated: 1507596227
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - redEnemy: {fileID: 1764359070585622, guid: 04430aae3540a594a8b3ae593481ceee, type: 2}
+  - blueEnemy: {fileID: 1836779230890814, guid: 468f30808b3dd5748b9074aa31f0dce0,
+      type: 2}
+  - yellowEnemy: {fileID: 1424251831940326, guid: bb4ae78a2e140094f898c2a9a1fa97e2,
+      type: 2}
+  - blackEnemy: {fileID: 1601693048580980, guid: 77f87f9ed865b1b4285fcb7da48c94cb,
+      type: 2}
+  - skinEnemy: {fileID: 1346271821405850, guid: 9eb1c38eb5708fd4c92a4fc624e2ec0b,
+      type: 2}
+  - brownEnemy: {fileID: 1375053894281572, guid: 206f1cea682126048a957bc6300b3aa5,
+      type: 2}
+  - greenEnemy: {fileID: 1332624903490764, guid: e69ac977234a8174994237a0e3a57062,
+      type: 2}
+  - darkGreenEnemy: {fileID: 1470128875885050, guid: 7c61b1c63046e464292a22035140bd15,
+      type: 2}
+  - orangeEnemy: {fileID: 1348427451789806, guid: fe9f31ce26762e8429d8c80e596fddc0,
+      type: 2}
+  - purpleEnemy: {fileID: 1737900097644472, guid: f3e17512b529b704aa696b34659b7c3d,
+      type: 2}
+  - grayEnemy: {fileID: 1950127130719018, guid: 7e758329042104049a93e657993c0ec3,
+      type: 2}
+  - rainbowEnemy: {fileID: 1867509187271998, guid: 515f6890f6a9f6f48a41d07d2837b78f,
+      type: 2}
+  - player: {fileID: 1443594391397326, guid: 0a78f5e8643e38b478ed1d53eb8a94b3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

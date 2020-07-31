@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cube
+  - Enemy
+  - BlackInk
+  - BlueInk
+  - BrownInk
+  - DarkGreenInk
+  - GreenInk
+  - OrangeInk
+  - PurpleInk
+  - RedInk
+  - SkinInk
+  - YellowInk
+  - BlackEnemy
+  - BlueEnemy
+  - BrownEnemy
+  - DarkGreenEnemy
+  - GreenEnemy
+  - OrangeEnemy
+  - PurpleEnemy
+  - RedEnemy
+  - SkinEnemy
+  - YellowEnemy
+  - GrayEnemy
+  - GrayInk
+  - RainbowEnemy
+  - RainbowInk
+  - EraserEnemy
+  - OrangeXEnemy
+  - BlackXEnemy
+  - BlueXEnemy
+  - BrownXEnemy
+  - DarkGreenXEnemy
+  - GrayXEnemy
+  - GreenXEnemy
+  - PurpleXEnemy
+  - RainbowXEnemy
+  - RedXEnemy
+  - SkinXEnemy
+  - YellowXEnemy
+  - Model
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
